@@ -170,3 +170,9 @@ function boasVindas(nome) {
 
 // Exemplo de uso
 console.log(boasVindas("Lucas"));
+
+  //Exercicio 1.3
+  function maiorNumero(num1, num2) {
+    return Math.max(num1, num2);
+  }
+  console.log(maiorNumero(10, 20)); // Saída: 20
