@@ -7,7 +7,7 @@ let titulo = document.getElementById("Titulo");
 //variavel comum
 titulo.style.color = "blue";
 
-let descricao = document.getElementByIdgeClassName("descricao");
+let descricao = document.getElementByIdgeClassName("descricao"); // todos os elementos de uma classe
 // variavel vetor
 descricao[0].style.fontWeight = "bold";
 descricao[1].style.color = "green";
